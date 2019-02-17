@@ -7,7 +7,7 @@ permalink: /sponsors/
 
 ¿Interesado en ser sponsor de este evento? Por favor, complete el siguiente formulario y nos comunicaremos a la brevedad.
 
-<form method="POST" action="http://jpais-staticman.eastus.cloudapp.azure.com:8080/v2/connect/devopsdaysmvd/devopsdaysmvd.github.io/master/sponsors">
+<form method="POST" action="http://jpais-staticman.eastus.cloudapp.azure.com:8080/v2/entry/devopsdaysmvd/devopsdaysmvd.github.io/master/sponsors">
   <input name="options[redirect]" type="hidden" value="https://devopsdaysmvd.github.io">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">

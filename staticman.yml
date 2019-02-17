@@ -4,10 +4,10 @@ sponsors:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
   commitMessage          : "New sponsor message from {fields.name}"
-  filename               : "sponsor-{fields.name}-{@timestamp}"
+  filename               : "sponsor-{@timestamp}"
   format                 : "yml"
   moderation             : true
-  path                   : "/_data/sponsors/"
+  path                   : "_data/sponsors"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
