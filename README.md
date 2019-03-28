@@ -1,1 +1,0 @@
-# devopsdaysmvd.github.io
