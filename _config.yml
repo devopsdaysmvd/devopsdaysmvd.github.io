@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
+
+title: DevOpsDays Montevideo
+description: Southernmost DevOpsDays on earth!
+show_downloads: false
+google_analytics: UA-139974138-1
+theme: jekyll-theme-cayman
