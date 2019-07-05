@@ -1,4 +1,4 @@
 ---
 title: registro
-redirect_to: https://redtickets.uy/servlet/com.redtickets2.verevento?1711
+redirect_to: https://devopsdays.org/events/2019-montevideo/registration/
 ---
